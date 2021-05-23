@@ -1,2 +1,2 @@
-import {nombre, hp, estaVivo}  from './ejercicios/01-tipos-basicos';
-console.log(nombre, hp, estaVivo)
+import personaje  from './ejercicios/02-arr-obj-interface';
+console.log(personaje);

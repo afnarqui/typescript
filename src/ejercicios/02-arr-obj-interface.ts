@@ -22,3 +22,5 @@ personaje.puebloNatal = 'Pueblo Paleta';
 
 
 console.table( personaje );
+
+export default personaje;
